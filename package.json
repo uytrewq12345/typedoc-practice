@@ -1,0 +1,13 @@
+{
+  "name": "typedoc-example",
+  "version": "1.0.0",
+  "description": "Example project for generating documentation with TypeDoc",
+  "main": "src/index.ts",
+  "scripts": {
+    "docs": "typedoc"
+  },
+  "devDependencies": {
+    "typedoc": "^0.25.0",
+    "typescript": "^5.0.0"
+  }
+}
