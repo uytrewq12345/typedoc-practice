@@ -7,7 +7,10 @@
     "docs": "typedoc"
   },
   "devDependencies": {
-    "typedoc": "^0.25.0",
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "typedoc": "^0.27.6",
+    "typedoc-plugin-markdown": "^4.4.1"
   }
 }
